@@ -71,7 +71,7 @@ function showFiles($path){
 
 <table width="800" border="0" cellspacing="0" cellpadding="10" class="main-message">
 	<tr>
-		<td valign="top" style="min-width: 550px; max-width: 800px;"><pre style="max-width:800px;white-space: pre-wrap;">'.$result.'</pre></td>
+		<td valign="top" style="min-width: 550px; max-width: 800px;"><textarea style="max-width:800px; width: 100%;border: none ;min-height: 300px;;height:100%;display:block" cols="30" rows="10">'.$result.'</textarea></td>
 		<td valign="top" style="max-width: 250px">
         <br><br><br>
     		</td>
